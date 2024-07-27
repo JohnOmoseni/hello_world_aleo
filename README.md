@@ -1,12 +1,10 @@
 <h1 align="center" id="title">Hello Aleo World</h1>
 
 <p id="description">Ojaaay_Auction is a decentralized auction platform built using the Leo programming language and deployed on the Aleo blockchain. This platform allows users to create and participate in auctions securely and transparently.</p>
-<!-- 
-<h2>Project Screenshots:</h2>
 
-<img src="https://res.cloudinary.com/dei5xnezi/image/upload/v1722054726/chrome_11BQAFAVZP_gvb4mq.png" alt="project-screenshot" width="400" height="400/">
+<!-- <img src="https://res.cloudinary.com/dei5xnezi/image/upload/v1722054726/chrome_11BQAFAVZP_gvb4mq.png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://res.cloudinary.com/dei5xnezi/image/upload/v1722054725/chrome_CM1Q5PJIh3_dswu5v.png" alt="project-screenshot" width="400" height="400/"> -->
+<img src="https://res.cloudinary.com/dei5xnezi/image/upload/v1722054725/chrome_CM1Q5PJIh3_dswu5v.png" alt="project-screenshot" width="400" height="400/"> --> -->
 
 <h2>🛠️ Installation Steps:</h2>
 
